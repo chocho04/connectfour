@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a205f9ba-66cd-4e33-8fbe-9339d373a50a" name="Changes" comment="Final">
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/classes/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/classes/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/classes/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/classes/kotlin/Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/classes/kotlin/Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-kotlin.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/classes/kotlin/Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-kotlin.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/reports/tests/Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/reports/tests/Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/reports/tests/Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/test-results/Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/test-results/Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/test-results/Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/tmp/Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/tmp/Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/build/tmp/Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema_Room_Manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Crash a program/Cinema_Room_Manager.Topics-Taming_exceptions-Crash_a_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Crash a program/Cinema_Room_Manager.Topics-Taming_exceptions-Crash_a_program.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Crash a program/Cinema_Room_Manager.Topics-Taming_exceptions-Crash_a_program.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Handle arithmetic exception/Cinema_Room_Manager.Topics-Taming_exceptions-Handle_arithmetic_exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Handle arithmetic exception/Cinema_Room_Manager.Topics-Taming_exceptions-Handle_arithmetic_exception.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Handle arithmetic exception/Cinema_Room_Manager.Topics-Taming_exceptions-Handle_arithmetic_exception.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Handle number format exception/Cinema_Room_Manager.Topics-Taming_exceptions-Handle_number_format_exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Handle number format exception/Cinema_Room_Manager.Topics-Taming_exceptions-Handle_number_format_exception.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Handle number format exception/Cinema_Room_Manager.Topics-Taming_exceptions-Handle_number_format_exception.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Handle string exception/Cinema_Room_Manager.Topics-Taming_exceptions-Handle_string_exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Handle string exception/Cinema_Room_Manager.Topics-Taming_exceptions-Handle_string_exception.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Handle string exception/Cinema_Room_Manager.Topics-Taming_exceptions-Handle_string_exception.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Practice/Cinema_Room_Manager.Topics-Taming_exceptions-Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Practice/Cinema_Room_Manager.Topics-Taming_exceptions-Practice.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Practice/Cinema_Room_Manager.Topics-Taming_exceptions-Practice.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Theory/Cinema_Room_Manager.Topics-Taming_exceptions-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Theory/Cinema_Room_Manager.Topics-Taming_exceptions-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/Taming exceptions/Theory/Cinema_Room_Manager.Topics-Taming_exceptions-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Converter to Double/Cinema_Room_Manager.Topics-The_try-catch_statement-Converter_to_Double.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Converter to Double/Cinema_Room_Manager.Topics-The_try-catch_statement-Converter_to_Double.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Converter to Double/Cinema_Room_Manager.Topics-The_try-catch_statement-Converter_to_Double.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Correct code/Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Correct code/Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_code.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Correct code/Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_code.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Correct statements/Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Correct statements/Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Correct statements/Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Exception message/Cinema_Room_Manager.Topics-The_try-catch_statement-Exception_message.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Exception message/Cinema_Room_Manager.Topics-The_try-catch_statement-Exception_message.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Exception message/Cinema_Room_Manager.Topics-The_try-catch_statement-Exception_message.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Handling strings/Cinema_Room_Manager.Topics-The_try-catch_statement-Handling_strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Handling strings/Cinema_Room_Manager.Topics-The_try-catch_statement-Handling_strings.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Handling strings/Cinema_Room_Manager.Topics-The_try-catch_statement-Handling_strings.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Integer division/Cinema_Room_Manager.Topics-The_try-catch_statement-Integer_division.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Integer division/Cinema_Room_Manager.Topics-The_try-catch_statement-Integer_division.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Integer division/Cinema_Room_Manager.Topics-The_try-catch_statement-Integer_division.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Theory/Cinema_Room_Manager.Topics-The_try-catch_statement-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Theory/Cinema_Room_Manager.Topics-The_try-catch_statement-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Theory/Cinema_Room_Manager.Topics-The_try-catch_statement-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Usage/Cinema_Room_Manager.Topics-The_try-catch_statement-Usage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Usage/Cinema_Room_Manager.Topics-The_try-catch_statement-Usage.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch statement/Usage/Cinema_Room_Manager.Topics-The_try-catch_statement-Usage.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch-finally statement/Parting words/Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Parting_words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch-finally statement/Parting words/Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Parting_words.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch-finally statement/Parting words/Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Parting_words.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch-finally statement/Theory/Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch-finally statement/Theory/Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Topics/The try-catch-finally statement/Theory/Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/util/Cinema_Room_Manager.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/util/Cinema_Room_Manager.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/util/Cinema_Room_Manager.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/classes/java/Coffee_Machine.Coffee_Machine-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/classes/java/Coffee_Machine.Coffee_Machine-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/classes/java/Coffee_Machine.Coffee_Machine-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/classes/kotlin/Coffee_Machine.Coffee_Machine-task-build-classes-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/classes/kotlin/Coffee_Machine.Coffee_Machine-task-build-classes-kotlin.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/classes/kotlin/Coffee_Machine.Coffee_Machine-task-build-classes-kotlin.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/generated/sources/annotationProcessor/java/Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/generated/sources/annotationProcessor/java/Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/generated/sources/annotationProcessor/java/Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/generated/sources/headers/java/Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/generated/sources/headers/java/Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/generated/sources/headers/java/Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/reports/tests/Coffee_Machine.Coffee_Machine-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/reports/tests/Coffee_Machine.Coffee_Machine-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/reports/tests/Coffee_Machine.Coffee_Machine-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/test-results/Coffee_Machine.Coffee_Machine-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/test-results/Coffee_Machine.Coffee_Machine-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/test-results/Coffee_Machine.Coffee_Machine-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/tmp/Coffee_Machine.Coffee_Machine-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/tmp/Coffee_Machine.Coffee_Machine-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee Machine/task/build/tmp/Coffee_Machine.Coffee_Machine-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Coffee_Machine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/A good companion/Coffee_Machine.Topics-Companion_object-A_good_companion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/A good companion/Coffee_Machine.Topics-Companion_object-A_good_companion.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/A good companion/Coffee_Machine.Topics-Companion_object-A_good_companion.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Board game basics  Player/Coffee_Machine.Topics-Companion_object-Board_game_basics__Player.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Board game basics  Player/Coffee_Machine.Topics-Companion_object-Board_game_basics__Player.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Board game basics  Player/Coffee_Machine.Topics-Companion_object-Board_game_basics__Player.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Companion/Coffee_Machine.Topics-Companion_object-Companion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Companion/Coffee_Machine.Topics-Companion_object-Companion.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Companion/Coffee_Machine.Topics-Companion_object-Companion.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Fix an error/Coffee_Machine.Topics-Companion_object-Fix_an_error.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Fix an error/Coffee_Machine.Topics-Companion_object-Fix_an_error.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Fix an error/Coffee_Machine.Topics-Companion_object-Fix_an_error.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Fix me/Coffee_Machine.Topics-Companion_object-Fix_me.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Fix me/Coffee_Machine.Topics-Companion_object-Fix_me.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Fix me/Coffee_Machine.Topics-Companion_object-Fix_me.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Theory/Coffee_Machine.Topics-Companion_object-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Theory/Coffee_Machine.Topics-Companion_object-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Theory/Coffee_Machine.Topics-Companion_object-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Usage/Coffee_Machine.Topics-Companion_object-Usage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Usage/Coffee_Machine.Topics-Companion_object-Usage.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Companion object/Usage/Coffee_Machine.Topics-Companion_object-Usage.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Bank account/Coffee_Machine.Topics-Constructors-Bank_account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Bank account/Coffee_Machine.Topics-Constructors-Bank_account.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Bank account/Coffee_Machine.Topics-Constructors-Bank_account.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Class members to initialize objects/Coffee_Machine.Topics-Constructors-Class_members_to_initialize_objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Class members to initialize objects/Coffee_Machine.Topics-Constructors-Class_members_to_initialize_objects.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Class members to initialize objects/Coffee_Machine.Topics-Constructors-Class_members_to_initialize_objects.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Find the error/Coffee_Machine.Topics-Constructors-Find_the_error.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Find the error/Coffee_Machine.Topics-Constructors-Find_the_error.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Find the error/Coffee_Machine.Topics-Constructors-Find_the_error.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/How many primary constructors/Coffee_Machine.Topics-Constructors-How_many_primary_constructors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/How many primary constructors/Coffee_Machine.Topics-Constructors-How_many_primary_constructors.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/How many primary constructors/Coffee_Machine.Topics-Constructors-How_many_primary_constructors.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Implicit constructor/Coffee_Machine.Topics-Constructors-Implicit_constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Implicit constructor/Coffee_Machine.Topics-Constructors-Implicit_constructor.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Implicit constructor/Coffee_Machine.Topics-Constructors-Implicit_constructor.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Init usage/Coffee_Machine.Topics-Constructors-Init_usage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Init usage/Coffee_Machine.Topics-Constructors-Init_usage.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Init usage/Coffee_Machine.Topics-Constructors-Init_usage.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Pets/Coffee_Machine.Topics-Constructors-Pets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Pets/Coffee_Machine.Topics-Constructors-Pets.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Pets/Coffee_Machine.Topics-Constructors-Pets.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Point2D/Coffee_Machine.Topics-Constructors-Point2D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Point2D/Coffee_Machine.Topics-Constructors-Point2D.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Point2D/Coffee_Machine.Topics-Constructors-Point2D.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Reddit/Coffee_Machine.Topics-Constructors-Reddit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Reddit/Coffee_Machine.Topics-Constructors-Reddit.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Reddit/Coffee_Machine.Topics-Constructors-Reddit.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Theory/Coffee_Machine.Topics-Constructors-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Theory/Coffee_Machine.Topics-Constructors-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Constructors/Theory/Coffee_Machine.Topics-Constructors-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Area printer/Coffee_Machine.Topics-Declaring_classes-Area_printer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Area printer/Coffee_Machine.Topics-Declaring_classes-Area_printer.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Area printer/Coffee_Machine.Topics-Declaring_classes-Area_printer.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Composition/Coffee_Machine.Topics-Declaring_classes-Composition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Composition/Coffee_Machine.Topics-Declaring_classes-Composition.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Composition/Coffee_Machine.Topics-Declaring_classes-Composition.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Operations on var objects/Coffee_Machine.Topics-Declaring_classes-Operations_on_var_objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Operations on var objects/Coffee_Machine.Topics-Declaring_classes-Operations_on_var_objects.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Operations on var objects/Coffee_Machine.Topics-Declaring_classes-Operations_on_var_objects.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Possible properties types/Coffee_Machine.Topics-Declaring_classes-Possible_properties_types.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Possible properties types/Coffee_Machine.Topics-Declaring_classes-Possible_properties_types.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Possible properties types/Coffee_Machine.Topics-Declaring_classes-Possible_properties_types.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Pseudo-constructor/Coffee_Machine.Topics-Declaring_classes-Pseudo-constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Pseudo-constructor/Coffee_Machine.Topics-Declaring_classes-Pseudo-constructor.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Pseudo-constructor/Coffee_Machine.Topics-Declaring_classes-Pseudo-constructor.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Theory/Coffee_Machine.Topics-Declaring_classes-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Theory/Coffee_Machine.Topics-Declaring_classes-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/Theory/Coffee_Machine.Topics-Declaring_classes-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/True statements/Coffee_Machine.Topics-Declaring_classes-True_statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/True statements/Coffee_Machine.Topics-Declaring_classes-True_statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Declaring classes/True statements/Coffee_Machine.Topics-Declaring_classes-True_statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Concatenate 3 strings with separator/Coffee_Machine.Topics-Default_arguments-Concatenate_3_strings_with_separator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Concatenate 3 strings with separator/Coffee_Machine.Topics-Default_arguments-Concatenate_3_strings_with_separator.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Concatenate 3 strings with separator/Coffee_Machine.Topics-Default_arguments-Concatenate_3_strings_with_separator.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Determine the result/Coffee_Machine.Topics-Default_arguments-Determine_the_result.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Determine the result/Coffee_Machine.Topics-Default_arguments-Determine_the_result.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Determine the result/Coffee_Machine.Topics-Default_arguments-Determine_the_result.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Gratuity/Coffee_Machine.Topics-Default_arguments-Gratuity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Gratuity/Coffee_Machine.Topics-Default_arguments-Gratuity.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Gratuity/Coffee_Machine.Topics-Default_arguments-Gratuity.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Polynomial/Coffee_Machine.Topics-Default_arguments-Polynomial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Polynomial/Coffee_Machine.Topics-Default_arguments-Polynomial.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Polynomial/Coffee_Machine.Topics-Default_arguments-Polynomial.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Print Username/Coffee_Machine.Topics-Default_arguments-Print_Username.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Print Username/Coffee_Machine.Topics-Default_arguments-Print_Username.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Print Username/Coffee_Machine.Topics-Default_arguments-Print_Username.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Theory/Coffee_Machine.Topics-Default_arguments-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Theory/Coffee_Machine.Topics-Default_arguments-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Default arguments/Theory/Coffee_Machine.Topics-Default_arguments-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Currency comparison/Coffee_Machine.Topics-Enum-Currency_comparison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Currency comparison/Coffee_Machine.Topics-Enum-Currency_comparison.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Currency comparison/Coffee_Machine.Topics-Enum-Currency_comparison.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Danger level/Coffee_Machine.Topics-Enum-Danger_level.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Danger level/Coffee_Machine.Topics-Enum-Danger_level.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Danger level/Coffee_Machine.Topics-Enum-Danger_level.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Rainbow colors/Coffee_Machine.Topics-Enum-Rainbow_colors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Rainbow colors/Coffee_Machine.Topics-Enum-Rainbow_colors.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Rainbow colors/Coffee_Machine.Topics-Enum-Rainbow_colors.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/The rainbow order/Coffee_Machine.Topics-Enum-The_rainbow_order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/The rainbow order/Coffee_Machine.Topics-Enum-The_rainbow_order.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/The rainbow order/Coffee_Machine.Topics-Enum-The_rainbow_order.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Theory/Coffee_Machine.Topics-Enum-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Theory/Coffee_Machine.Topics-Enum-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/Theory/Coffee_Machine.Topics-Enum-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/valueOf() method/Coffee_Machine.Topics-Enum-valueOf___method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/valueOf() method/Coffee_Machine.Topics-Enum-valueOf___method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Enum/valueOf() method/Coffee_Machine.Topics-Enum-valueOf___method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Create a full name/Coffee_Machine.Topics-Functional_decomposition-Create_a_full_name.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Create a full name/Coffee_Machine.Topics-Functional_decomposition-Create_a_full_name.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Create a full name/Coffee_Machine.Topics-Functional_decomposition-Create_a_full_name.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Decompose a math function/Coffee_Machine.Topics-Functional_decomposition-Decompose_a_math_function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Decompose a math function/Coffee_Machine.Topics-Functional_decomposition-Decompose_a_math_function.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Decompose a math function/Coffee_Machine.Topics-Functional_decomposition-Decompose_a_math_function.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/How to improve a compound program/Coffee_Machine.Topics-Functional_decomposition-How_to_improve_a_compound_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/How to improve a compound program/Coffee_Machine.Topics-Functional_decomposition-How_to_improve_a_compound_program.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/How to improve a compound program/Coffee_Machine.Topics-Functional_decomposition-How_to_improve_a_compound_program.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Items of functional decomposition/Coffee_Machine.Topics-Functional_decomposition-Items_of_functional_decomposition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Items of functional decomposition/Coffee_Machine.Topics-Functional_decomposition-Items_of_functional_decomposition.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Items of functional decomposition/Coffee_Machine.Topics-Functional_decomposition-Items_of_functional_decomposition.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Roots of quadratic equation/Coffee_Machine.Topics-Functional_decomposition-Roots_of_quadratic_equation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Roots of quadratic equation/Coffee_Machine.Topics-Functional_decomposition-Roots_of_quadratic_equation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Roots of quadratic equation/Coffee_Machine.Topics-Functional_decomposition-Roots_of_quadratic_equation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Theory/Coffee_Machine.Topics-Functional_decomposition-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Theory/Coffee_Machine.Topics-Functional_decomposition-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Theory/Coffee_Machine.Topics-Functional_decomposition-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Why decompose a program/Coffee_Machine.Topics-Functional_decomposition-Why_decompose_a_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Why decompose a program/Coffee_Machine.Topics-Functional_decomposition-Why_decompose_a_program.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Functional decomposition/Why decompose a program/Coffee_Machine.Topics-Functional_decomposition-Why_decompose_a_program.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Application as a class/Coffee_Machine.Topics-Member_functions-Application_as_a_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Application as a class/Coffee_Machine.Topics-Member_functions-Application_as_a_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Application as a class/Coffee_Machine.Topics-Member_functions-Application_as_a_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Car/Coffee_Machine.Topics-Member_functions-Car.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Car/Coffee_Machine.Topics-Member_functions-Car.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Car/Coffee_Machine.Topics-Member_functions-Car.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Keyword to declare a member function/Coffee_Machine.Topics-Member_functions-Keyword_to_declare_a_member_function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Keyword to declare a member function/Coffee_Machine.Topics-Member_functions-Keyword_to_declare_a_member_function.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Keyword to declare a member function/Coffee_Machine.Topics-Member_functions-Keyword_to_declare_a_member_function.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Patient needs a doctor/Coffee_Machine.Topics-Member_functions-Patient_needs_a_doctor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Patient needs a doctor/Coffee_Machine.Topics-Member_functions-Patient_needs_a_doctor.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Patient needs a doctor/Coffee_Machine.Topics-Member_functions-Patient_needs_a_doctor.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Theory/Coffee_Machine.Topics-Member_functions-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Theory/Coffee_Machine.Topics-Member_functions-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Theory/Coffee_Machine.Topics-Member_functions-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Volume of a cube/Coffee_Machine.Topics-Member_functions-Volume_of_a_cube.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Volume of a cube/Coffee_Machine.Topics-Member_functions-Volume_of_a_cube.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Member functions/Volume of a cube/Coffee_Machine.Topics-Member_functions-Volume_of_a_cube.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Named arguments/Deposit/Coffee_Machine.Topics-Named_arguments-Deposit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Named arguments/Deposit/Coffee_Machine.Topics-Named_arguments-Deposit.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Named arguments/Deposit/Coffee_Machine.Topics-Named_arguments-Deposit.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Named arguments/Find the correct invocations/Coffee_Machine.Topics-Named_arguments-Find_the_correct_invocations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Named arguments/Find the correct invocations/Coffee_Machine.Topics-Named_arguments-Find_the_correct_invocations.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Named arguments/Find the correct invocations/Coffee_Machine.Topics-Named_arguments-Find_the_correct_invocations.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Named arguments/Theory/Coffee_Machine.Topics-Named_arguments-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Named arguments/Theory/Coffee_Machine.Topics-Named_arguments-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Named arguments/Theory/Coffee_Machine.Topics-Named_arguments-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/A bow and a cat/Coffee_Machine.Topics-Nested_and_inner_classes-A_bow_and_a_cat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/A bow and a cat/Coffee_Machine.Topics-Nested_and_inner_classes-A_bow_and_a_cat.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/A bow and a cat/Coffee_Machine.Topics-Nested_and_inner_classes-A_bow_and_a_cat.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Busy internship/Coffee_Machine.Topics-Nested_and_inner_classes-Busy_internship.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Busy internship/Coffee_Machine.Topics-Nested_and_inner_classes-Busy_internship.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Busy internship/Coffee_Machine.Topics-Nested_and_inner_classes-Busy_internship.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Christmas tree/Coffee_Machine.Topics-Nested_and_inner_classes-Christmas_tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Christmas tree/Coffee_Machine.Topics-Nested_and_inner_classes-Christmas_tree.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Christmas tree/Coffee_Machine.Topics-Nested_and_inner_classes-Christmas_tree.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Clothing problem/Coffee_Machine.Topics-Nested_and_inner_classes-Clothing_problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Clothing problem/Coffee_Machine.Topics-Nested_and_inner_classes-Clothing_problem.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Clothing problem/Coffee_Machine.Topics-Nested_and_inner_classes-Clothing_problem.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Improve your vehicle/Coffee_Machine.Topics-Nested_and_inner_classes-Improve_your_vehicle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Improve your vehicle/Coffee_Machine.Topics-Nested_and_inner_classes-Improve_your_vehicle.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Improve your vehicle/Coffee_Machine.Topics-Nested_and_inner_classes-Improve_your_vehicle.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Nested or inner/Coffee_Machine.Topics-Nested_and_inner_classes-Nested_or_inner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Nested or inner/Coffee_Machine.Topics-Nested_and_inner_classes-Nested_or_inner.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Nested or inner/Coffee_Machine.Topics-Nested_and_inner_classes-Nested_or_inner.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/New Inner class/Coffee_Machine.Topics-Nested_and_inner_classes-New_Inner_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/New Inner class/Coffee_Machine.Topics-Nested_and_inner_classes-New_Inner_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/New Inner class/Coffee_Machine.Topics-Nested_and_inner_classes-New_Inner_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Pumpkin and candle/Coffee_Machine.Topics-Nested_and_inner_classes-Pumpkin_and_candle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Pumpkin and candle/Coffee_Machine.Topics-Nested_and_inner_classes-Pumpkin_and_candle.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Pumpkin and candle/Coffee_Machine.Topics-Nested_and_inner_classes-Pumpkin_and_candle.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Theory/Coffee_Machine.Topics-Nested_and_inner_classes-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Theory/Coffee_Machine.Topics-Nested_and_inner_classes-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Theory/Coffee_Machine.Topics-Nested_and_inner_classes-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Why do we need inner classes/Coffee_Machine.Topics-Nested_and_inner_classes-Why_do_we_need_inner_classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Why do we need inner classes/Coffee_Machine.Topics-Nested_and_inner_classes-Why_do_we_need_inner_classes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Why do we need inner classes/Coffee_Machine.Topics-Nested_and_inner_classes-Why_do_we_need_inner_classes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Your vehicle/Coffee_Machine.Topics-Nested_and_inner_classes-Your_vehicle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Your vehicle/Coffee_Machine.Topics-Nested_and_inner_classes-Your_vehicle.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Nested and inner classes/Your vehicle/Coffee_Machine.Topics-Nested_and_inner_classes-Your_vehicle.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Blocks in a box/Coffee_Machine.Topics-Object_declarations-Blocks_in_a_box.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Blocks in a box/Coffee_Machine.Topics-Object_declarations-Blocks_in_a_box.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Blocks in a box/Coffee_Machine.Topics-Object_declarations-Blocks_in_a_box.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Board game basics  Game/Coffee_Machine.Topics-Object_declarations-Board_game_basics__Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Board game basics  Game/Coffee_Machine.Topics-Object_declarations-Board_game_basics__Game.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Board game basics  Game/Coffee_Machine.Topics-Object_declarations-Board_game_basics__Game.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Cell/Coffee_Machine.Topics-Object_declarations-Cell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Cell/Coffee_Machine.Topics-Object_declarations-Cell.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Cell/Coffee_Machine.Topics-Object_declarations-Cell.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Keyword/Coffee_Machine.Topics-Object_declarations-Keyword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Keyword/Coffee_Machine.Topics-Object_declarations-Keyword.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Keyword/Coffee_Machine.Topics-Object_declarations-Keyword.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Library/Coffee_Machine.Topics-Object_declarations-Library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Library/Coffee_Machine.Topics-Object_declarations-Library.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Library/Coffee_Machine.Topics-Object_declarations-Library.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Manager/Coffee_Machine.Topics-Object_declarations-Manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Manager/Coffee_Machine.Topics-Object_declarations-Manager.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Manager/Coffee_Machine.Topics-Object_declarations-Manager.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Properties/Coffee_Machine.Topics-Object_declarations-Properties.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Properties/Coffee_Machine.Topics-Object_declarations-Properties.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Properties/Coffee_Machine.Topics-Object_declarations-Properties.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Singleton defined/Coffee_Machine.Topics-Object_declarations-Singleton_defined.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Singleton defined/Coffee_Machine.Topics-Object_declarations-Singleton_defined.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Singleton defined/Coffee_Machine.Topics-Object_declarations-Singleton_defined.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Theory/Coffee_Machine.Topics-Object_declarations-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Theory/Coffee_Machine.Topics-Object_declarations-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Object declarations/Theory/Coffee_Machine.Topics-Object_declarations-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Correct overriding/Coffee_Machine.Topics-Properties_accessors-Correct_overriding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Correct overriding/Coffee_Machine.Topics-Properties_accessors-Correct_overriding.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Correct overriding/Coffee_Machine.Topics-Properties_accessors-Correct_overriding.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Field access/Coffee_Machine.Topics-Properties_accessors-Field_access.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Field access/Coffee_Machine.Topics-Properties_accessors-Field_access.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Field access/Coffee_Machine.Topics-Properties_accessors-Field_access.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Mutable state/Coffee_Machine.Topics-Properties_accessors-Mutable_state.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Mutable state/Coffee_Machine.Topics-Properties_accessors-Mutable_state.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Mutable state/Coffee_Machine.Topics-Properties_accessors-Mutable_state.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Property syntax/Coffee_Machine.Topics-Properties_accessors-Property_syntax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Property syntax/Coffee_Machine.Topics-Properties_accessors-Property_syntax.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Property syntax/Coffee_Machine.Topics-Properties_accessors-Property_syntax.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Theory/Coffee_Machine.Topics-Properties_accessors-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Theory/Coffee_Machine.Topics-Properties_accessors-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Theory/Coffee_Machine.Topics-Properties_accessors-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Weather comparison/Coffee_Machine.Topics-Properties_accessors-Weather_comparison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Weather comparison/Coffee_Machine.Topics-Properties_accessors-Weather_comparison.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Properties accessors/Weather comparison/Coffee_Machine.Topics-Properties_accessors-Weather_comparison.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Cyclist/Coffee_Machine.Topics-Scopes-Cyclist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Cyclist/Coffee_Machine.Topics-Scopes-Cyclist.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Cyclist/Coffee_Machine.Topics-Scopes-Cyclist.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Non-overlapping scopes/Coffee_Machine.Topics-Scopes-Non-overlapping_scopes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Non-overlapping scopes/Coffee_Machine.Topics-Scopes-Non-overlapping_scopes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Non-overlapping scopes/Coffee_Machine.Topics-Scopes-Non-overlapping_scopes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Open chest in Hogwarts/Coffee_Machine.Topics-Scopes-Open_chest_in_Hogwarts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Open chest in Hogwarts/Coffee_Machine.Topics-Scopes-Open_chest_in_Hogwarts.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Open chest in Hogwarts/Coffee_Machine.Topics-Scopes-Open_chest_in_Hogwarts.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Power and scopes/Coffee_Machine.Topics-Scopes-Power_and_scopes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Power and scopes/Coffee_Machine.Topics-Scopes-Power_and_scopes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Power and scopes/Coffee_Machine.Topics-Scopes-Power_and_scopes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Theory/Coffee_Machine.Topics-Scopes-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Theory/Coffee_Machine.Topics-Scopes-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/Theory/Coffee_Machine.Topics-Scopes-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/What is the scope/Coffee_Machine.Topics-Scopes-What_is_the_scope.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/What is the scope/Coffee_Machine.Topics-Scopes-What_is_the_scope.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Scopes/What is the scope/Coffee_Machine.Topics-Scopes-What_is_the_scope.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Barista problem/Coffee_Machine.Topics-Secondary_constructor-Barista_problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Barista problem/Coffee_Machine.Topics-Secondary_constructor-Barista_problem.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Barista problem/Coffee_Machine.Topics-Secondary_constructor-Barista_problem.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Creating news/Coffee_Machine.Topics-Secondary_constructor-Creating_news.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Creating news/Coffee_Machine.Topics-Secondary_constructor-Creating_news.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Creating news/Coffee_Machine.Topics-Secondary_constructor-Creating_news.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Fabric manufacture/Coffee_Machine.Topics-Secondary_constructor-Fabric_manufacture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Fabric manufacture/Coffee_Machine.Topics-Secondary_constructor-Fabric_manufacture.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Fabric manufacture/Coffee_Machine.Topics-Secondary_constructor-Fabric_manufacture.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Frozen desserts/Coffee_Machine.Topics-Secondary_constructor-Frozen_desserts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Frozen desserts/Coffee_Machine.Topics-Secondary_constructor-Frozen_desserts.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Frozen desserts/Coffee_Machine.Topics-Secondary_constructor-Frozen_desserts.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Spot the error/Coffee_Machine.Topics-Secondary_constructor-Spot_the_error.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Spot the error/Coffee_Machine.Topics-Secondary_constructor-Spot_the_error.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Spot the error/Coffee_Machine.Topics-Secondary_constructor-Spot_the_error.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Theory/Coffee_Machine.Topics-Secondary_constructor-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Theory/Coffee_Machine.Topics-Secondary_constructor-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/Topics/Secondary constructor/Theory/Coffee_Machine.Topics-Secondary_constructor-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/util/Coffee_Machine.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/util/Coffee_Machine.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine/.idea/modules/util/Coffee_Machine.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_3_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/classes/kotlin/Connect_Four.Connect_Four-task-build-classes-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/classes/kotlin/Connect_Four.Connect_Four-task-build-classes-kotlin.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/classes/kotlin/Connect_Four.Connect_Four-task-build-classes-kotlin.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/reports/tests/Connect_Four.Connect_Four-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/reports/tests/Connect_Four.Connect_Four-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/reports/tests/Connect_Four.Connect_Four-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/test-results/Connect_Four.Connect_Four-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/test-results/Connect_Four.Connect_Four-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/test-results/Connect_Four.Connect_Four-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/tmp/Connect_Four.Connect_Four-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/tmp/Connect_Four.Connect_Four-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect Four/task/build/tmp/Connect_Four.Connect_Four-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Connect_Four.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Connect_Four.Topics-Debugging_techniques-Find_the_error.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Connect_Four.Topics-Debugging_techniques-Find_the_error.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Find the error/Connect_Four.Topics-Debugging_techniques-Find_the_error.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Log events/Connect_Four.Topics-Debugging_techniques-Log_events.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Log events/Connect_Four.Topics-Debugging_techniques-Log_events.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Log events/Connect_Four.Topics-Debugging_techniques-Log_events.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Proper tools/Connect_Four.Topics-Debugging_techniques-Proper_tools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Proper tools/Connect_Four.Topics-Debugging_techniques-Proper_tools.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Proper tools/Connect_Four.Topics-Debugging_techniques-Proper_tools.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Connect_Four.Topics-Debugging_techniques-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Connect_Four.Topics-Debugging_techniques-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Debugging techniques/Theory/Connect_Four.Topics-Debugging_techniques-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Even numbers/Connect_Four.Topics-List-Even_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Even numbers/Connect_Four.Topics-List-Even_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Even numbers/Connect_Four.Topics-List-Even_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Indexes/Connect_Four.Topics-List-Indexes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Indexes/Connect_Four.Topics-List-Indexes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Indexes/Connect_Four.Topics-List-Indexes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Number of occurrences/Connect_Four.Topics-List-Number_of_occurrences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Number of occurrences/Connect_Four.Topics-List-Number_of_occurrences.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Number of occurrences/Connect_Four.Topics-List-Number_of_occurrences.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Sum of numbers/Connect_Four.Topics-List-Sum_of_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Sum of numbers/Connect_Four.Topics-List-Sum_of_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Sum of numbers/Connect_Four.Topics-List-Sum_of_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Theory/Connect_Four.Topics-List-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Theory/Connect_Four.Topics-List-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/List/Theory/Connect_Four.Topics-List-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Add them all/Connect_Four.Topics-Mutable_List-Add_them_all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Add them all/Connect_Four.Topics-Mutable_List-Add_them_all.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Add them all/Connect_Four.Topics-Mutable_List-Add_them_all.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Adding/Connect_Four.Topics-Mutable_List-Adding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Adding/Connect_Four.Topics-Mutable_List-Adding.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Adding/Connect_Four.Topics-Mutable_List-Adding.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Banana/Connect_Four.Topics-Mutable_List-Banana.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Banana/Connect_Four.Topics-Mutable_List-Banana.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Banana/Connect_Four.Topics-Mutable_List-Banana.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/MutableList properties/Connect_Four.Topics-Mutable_List-MutableList_properties.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/MutableList properties/Connect_Four.Topics-Mutable_List-MutableList_properties.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/MutableList properties/Connect_Four.Topics-Mutable_List-MutableList_properties.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/New List/Connect_Four.Topics-Mutable_List-New_List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/New List/Connect_Four.Topics-Mutable_List-New_List.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/New List/Connect_Four.Topics-Mutable_List-New_List.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Remove us/Connect_Four.Topics-Mutable_List-Remove_us.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Remove us/Connect_Four.Topics-Mutable_List-Remove_us.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Remove us/Connect_Four.Topics-Mutable_List-Remove_us.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Theory/Connect_Four.Topics-Mutable_List-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Theory/Connect_Four.Topics-Mutable_List-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Mutable List/Theory/Connect_Four.Topics-Mutable_List-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Game board/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Game board/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Game board/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Game logic/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Game logic/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Game logic/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Input game parameters/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Input game parameters/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Input game parameters/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Multiple games/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Multiple games/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Multiple games/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Winning condition/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Winning condition/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/Winning condition/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect Four/task/test/ConnectFourTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Checking the argument/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Checking the argument/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Checking the argument/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Checking the argument/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Find the error/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Find the error/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Find the error/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Find the error/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Log events/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Log events/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Log events/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Log events/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Debugging techniques/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Even numbers/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Even numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Even numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Even numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Indexes/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Indexes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Indexes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Indexes/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Number of occurrences/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Number of occurrences/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Number of occurrences/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Number of occurrences/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Sum of numbers/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Sum of numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Sum of numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Sum of numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/List/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Add them all/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Add them all/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Add them all/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Add them all/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Adding/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Adding/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Adding/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Adding/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Banana/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Banana/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Banana/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Banana/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/MutableList properties/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/MutableList properties/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/MutableList properties/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/MutableList properties/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/New List/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/New List/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/New List/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/New List/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Remove us/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Remove us/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Remove us/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Remove us/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Mutable List/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/classes/java/Number_Base_Converter.Number_Base_Converter-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/classes/java/Number_Base_Converter.Number_Base_Converter-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/classes/java/Number_Base_Converter.Number_Base_Converter-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/classes/kotlin/Number_Base_Converter.Number_Base_Converter-task-build-classes-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/classes/kotlin/Number_Base_Converter.Number_Base_Converter-task-build-classes-kotlin.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/classes/kotlin/Number_Base_Converter.Number_Base_Converter-task-build-classes-kotlin.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/generated/sources/annotationProcessor/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/generated/sources/annotationProcessor/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/generated/sources/annotationProcessor/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/generated/sources/headers/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/generated/sources/headers/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/generated/sources/headers/java/Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/reports/tests/Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/reports/tests/Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/reports/tests/Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/test-results/Number_Base_Converter.Number_Base_Converter-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/test-results/Number_Base_Converter.Number_Base_Converter-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/test-results/Number_Base_Converter.Number_Base_Converter-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/tmp/Number_Base_Converter.Number_Base_Converter-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/tmp/Number_Base_Converter.Number_Base_Converter-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number Base Converter/task/build/tmp/Number_Base_Converter.Number_Base_Converter-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Number_Base_Converter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Ability to change/Number_Base_Converter.Topics-BigDecimal-Ability_to_change.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Ability to change/Number_Base_Converter.Topics-BigDecimal-Ability_to_change.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Ability to change/Number_Base_Converter.Topics-BigDecimal-Ability_to_change.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Gold mining/Number_Base_Converter.Topics-BigDecimal-Gold_mining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Gold mining/Number_Base_Converter.Topics-BigDecimal-Gold_mining.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Gold mining/Number_Base_Converter.Topics-BigDecimal-Gold_mining.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Initialization/Number_Base_Converter.Topics-BigDecimal-Initialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Initialization/Number_Base_Converter.Topics-BigDecimal-Initialization.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Initialization/Number_Base_Converter.Topics-BigDecimal-Initialization.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Multiplication/Number_Base_Converter.Topics-BigDecimal-Multiplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Multiplication/Number_Base_Converter.Topics-BigDecimal-Multiplication.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Multiplication/Number_Base_Converter.Topics-BigDecimal-Multiplication.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Round and power/Number_Base_Converter.Topics-BigDecimal-Round_and_power.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Round and power/Number_Base_Converter.Topics-BigDecimal-Round_and_power.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Round and power/Number_Base_Converter.Topics-BigDecimal-Round_and_power.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Rounding with a given precision/Number_Base_Converter.Topics-BigDecimal-Rounding_with_a_given_precision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Rounding with a given precision/Number_Base_Converter.Topics-BigDecimal-Rounding_with_a_given_precision.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Rounding with a given precision/Number_Base_Converter.Topics-BigDecimal-Rounding_with_a_given_precision.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Theory/Number_Base_Converter.Topics-BigDecimal-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Theory/Number_Base_Converter.Topics-BigDecimal-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigDecimal/Theory/Number_Base_Converter.Topics-BigDecimal-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Division/Number_Base_Converter.Topics-BigInteger-Division.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Division/Number_Base_Converter.Topics-BigInteger-Division.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Division/Number_Base_Converter.Topics-BigInteger-Division.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/LCM/Number_Base_Converter.Topics-BigInteger-LCM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/LCM/Number_Base_Converter.Topics-BigInteger-LCM.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/LCM/Number_Base_Converter.Topics-BigInteger-LCM.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter.Topics-BigInteger-Max.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter.Topics-BigInteger-Max.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Max/Number_Base_Converter.Topics-BigInteger-Max.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Percentage/Number_Base_Converter.Topics-BigInteger-Percentage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Percentage/Number_Base_Converter.Topics-BigInteger-Percentage.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Percentage/Number_Base_Converter.Topics-BigInteger-Percentage.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Simple expression/Number_Base_Converter.Topics-BigInteger-Simple_expression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Simple expression/Number_Base_Converter.Topics-BigInteger-Simple_expression.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Simple expression/Number_Base_Converter.Topics-BigInteger-Simple_expression.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Statements/Number_Base_Converter.Topics-BigInteger-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Statements/Number_Base_Converter.Topics-BigInteger-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Statements/Number_Base_Converter.Topics-BigInteger-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter.Topics-BigInteger-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter.Topics-BigInteger-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/BigInteger/Theory/Number_Base_Converter.Topics-BigInteger-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Always win the dice game/Number_Base_Converter.Topics-Random-Always_win_the_dice_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Always win the dice game/Number_Base_Converter.Topics-Random-Always_win_the_dice_game.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Always win the dice game/Number_Base_Converter.Topics-Random-Always_win_the_dice_game.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Predictable  random  password/Number_Base_Converter.Topics-Random-Predictable__random__password.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Predictable  random  password/Number_Base_Converter.Topics-Random-Predictable__random__password.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Predictable  random  password/Number_Base_Converter.Topics-Random-Predictable__random__password.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Predictable sequence/Number_Base_Converter.Topics-Random-Predictable_sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Predictable sequence/Number_Base_Converter.Topics-Random-Predictable_sequence.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Predictable sequence/Number_Base_Converter.Topics-Random-Predictable_sequence.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Roll the dice/Number_Base_Converter.Topics-Random-Roll_the_dice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Roll the dice/Number_Base_Converter.Topics-Random-Roll_the_dice.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Roll the dice/Number_Base_Converter.Topics-Random-Roll_the_dice.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Theory/Number_Base_Converter.Topics-Random-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Theory/Number_Base_Converter.Topics-Random-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/Topics/Random/Theory/Number_Base_Converter.Topics-Random-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/util/Number_Base_Converter.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/util/Number_Base_Converter.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Base Converter/.idea/modules/util/Number_Base_Converter.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/classes/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/classes/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/classes/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/classes/kotlin/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/classes/kotlin/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-kotlin.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/classes/kotlin/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-kotlin.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/headers/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/headers/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/generated/sources/headers/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/reports/tests/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/reports/tests/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/reports/tests/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/test-results/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/test-results/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/test-results/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/tmp/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/tmp/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/build/tmp/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple_Chatty_Bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/util/Simple_Chatty_Bot.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/util/Simple_Chatty_Bot.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/util/Simple_Chatty_Bot.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/kotlin/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/kotlin/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-kotlin.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/kotlin/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-kotlin.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/reports/tests/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/reports/tests/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/reports/tests/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/test-results/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/test-results/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/test-results/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/tmp/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/tmp/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple Tic-Tac-Toe/task/build/tmp/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Simple_Tic-Tac-Toe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Compare Latin letters/Simple_Tic-Tac-Toe.Topics-Characters-Compare_Latin_letters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Compare Latin letters/Simple_Tic-Tac-Toe.Topics-Characters-Compare_Latin_letters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Compare Latin letters/Simple_Tic-Tac-Toe.Topics-Characters-Compare_Latin_letters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Comparing numbers and characters/Simple_Tic-Tac-Toe.Topics-Characters-Comparing_numbers_and_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Comparing numbers and characters/Simple_Tic-Tac-Toe.Topics-Characters-Comparing_numbers_and_characters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Comparing numbers and characters/Simple_Tic-Tac-Toe.Topics-Characters-Comparing_numbers_and_characters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Digits or not/Simple_Tic-Tac-Toe.Topics-Characters-Digits_or_not.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Digits or not/Simple_Tic-Tac-Toe.Topics-Characters-Digits_or_not.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Digits or not/Simple_Tic-Tac-Toe.Topics-Characters-Digits_or_not.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Encoding table/Simple_Tic-Tac-Toe.Topics-Characters-Encoding_table.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Encoding table/Simple_Tic-Tac-Toe.Topics-Characters-Encoding_table.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Encoding table/Simple_Tic-Tac-Toe.Topics-Characters-Encoding_table.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Operations allowed/Simple_Tic-Tac-Toe.Topics-Characters-Operations_allowed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Operations allowed/Simple_Tic-Tac-Toe.Topics-Characters-Operations_allowed.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Operations allowed/Simple_Tic-Tac-Toe.Topics-Characters-Operations_allowed.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Theory/Simple_Tic-Tac-Toe.Topics-Characters-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Theory/Simple_Tic-Tac-Toe.Topics-Characters-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Characters/Theory/Simple_Tic-Tac-Toe.Topics-Characters-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Count occurrences/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Count_occurrences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Count occurrences/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Count_occurrences.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Count occurrences/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Count_occurrences.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/For loops task/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-For_loops_task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/For loops task/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-For_loops_task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/For loops task/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-For_loops_task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/List indexes/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-List_indexes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/List indexes/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-List_indexes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/List indexes/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-List_indexes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Number in a set/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Number_in_a_set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Number in a set/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Number_in_a_set.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Number in a set/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Number_in_a_set.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Print all elements/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Print_all_elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Print all elements/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Print_all_elements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Print all elements/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Print_all_elements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Theory/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Theory/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and lists/Theory/Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/Count the numbers/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Count_the_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/Count the numbers/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Count_the_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/Count the numbers/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Count_the_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/Define a for-loop/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Define_a_for-loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/Define a for-loop/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Define_a_for-loop.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/Define a for-loop/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Define_a_for-loop.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/The maximum pairwise product/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_maximum_pairwise_product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/The maximum pairwise product/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_maximum_pairwise_product.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/The maximum pairwise product/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_maximum_pairwise_product.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/The roots of equation/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_roots_of_equation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/The roots of equation/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_roots_of_equation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/The roots of equation/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_roots_of_equation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/The sum of N numbers/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_sum_of_N_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/The sum of N numbers/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_sum_of_N_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/The sum of N numbers/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_sum_of_N_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/Theory/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/Theory/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/For loop and ranges/Theory/Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Getting substrings/Exchange/Simple_Tic-Tac-Toe.Topics-Getting_substrings-Exchange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Getting substrings/Exchange/Simple_Tic-Tac-Toe.Topics-Getting_substrings-Exchange.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Getting substrings/Exchange/Simple_Tic-Tac-Toe.Topics-Getting_substrings-Exchange.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Getting substrings/Theory/Simple_Tic-Tac-Toe.Topics-Getting_substrings-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Getting substrings/Theory/Simple_Tic-Tac-Toe.Topics-Getting_substrings-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Getting substrings/Theory/Simple_Tic-Tac-Toe.Topics-Getting_substrings-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Apple pie/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Apple_pie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Apple pie/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Apple_pie.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Apple pie/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Apple_pie.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Divide nuts equally between squirrels/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Divide nuts equally between squirrels/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Divide nuts equally between squirrels/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Integer division/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Integer division.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Integer division/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Integer division.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Integer division/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Integer division.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/The first digit of a two-digit number/Simple_Tic-Tac-Toe.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/The first digit of a two-digit number/Simple_Tic-Tac-Toe.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/The first digit of a two-digit number/Simple_Tic-Tac-Toe.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/The last digit of a number/Simple_Tic-Tac-Toe.Topics-Integers_in_action-The_last_digit_of_a_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/The last digit of a number/Simple_Tic-Tac-Toe.Topics-Integers_in_action-The_last_digit_of_a_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/The last digit of a number/Simple_Tic-Tac-Toe.Topics-Integers_in_action-The_last_digit_of_a_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Theory/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Theory/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Theory/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Underscore/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Underscore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Underscore/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Underscore.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Underscore/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Underscore.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Unsigned integers/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Unsigned_integers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Unsigned integers/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Unsigned_integers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Integers in action/Unsigned integers/Simple_Tic-Tac-Toe.Topics-Integers_in_action-Unsigned_integers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Beyond the word/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Beyond_the_word.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Beyond the word/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Beyond_the_word.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Beyond the word/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Beyond_the_word.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/First digit/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-First_digit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/First digit/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-First_digit.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/First digit/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-First_digit.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Getting letters from the Alphabet/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Getting letters from the Alphabet/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Getting letters from the Alphabet/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Jumping out/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Jumping_out.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Jumping out/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Jumping_out.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Jumping out/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Jumping_out.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Theory/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Theory/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Theory/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Unique characters/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Unique_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Unique characters/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Unique_characters.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Unique characters/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Unique_characters.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Whole truth about continue/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Whole_truth_about_continue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Whole truth about continue/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Whole_truth_about_continue.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Jumps and returns/Whole truth about continue/Simple_Tic-Tac-Toe.Topics-Jumps_and_returns-Whole_truth_about_continue.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Ranges/Theory/Simple_Tic-Tac-Toe.Topics-Ranges-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Ranges/Theory/Simple_Tic-Tac-Toe.Topics-Ranges-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Ranges/Theory/Simple_Tic-Tac-Toe.Topics-Ranges-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Ranges/Within both ranges/Simple_Tic-Tac-Toe.Topics-Ranges-Within_both_ranges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Ranges/Within both ranges/Simple_Tic-Tac-Toe.Topics-Ranges-Within_both_ranges.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Ranges/Within both ranges/Simple_Tic-Tac-Toe.Topics-Ranges-Within_both_ranges.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Relational operators/Check the value/Simple_Tic-Tac-Toe.Topics-Relational_operators-Check_the_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Relational operators/Check the value/Simple_Tic-Tac-Toe.Topics-Relational_operators-Check_the_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Relational operators/Check the value/Simple_Tic-Tac-Toe.Topics-Relational_operators-Check_the_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Relational operators/Theory/Simple_Tic-Tac-Toe.Topics-Relational_operators-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Relational operators/Theory/Simple_Tic-Tac-Toe.Topics-Relational_operators-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/Relational operators/Theory/Simple_Tic-Tac-Toe.Topics-Relational_operators-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/FTN-Numbers/Simple_Tic-Tac-Toe.Topics-When_expression-FTN-Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/FTN-Numbers/Simple_Tic-Tac-Toe.Topics-When_expression-FTN-Numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/FTN-Numbers/Simple_Tic-Tac-Toe.Topics-When_expression-FTN-Numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Find the output (1)/Simple_Tic-Tac-Toe.Topics-When_expression-Find_the_output__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Find the output (1)/Simple_Tic-Tac-Toe.Topics-When_expression-Find_the_output__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Find the output (1)/Simple_Tic-Tac-Toe.Topics-When_expression-Find_the_output__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Find the output/Simple_Tic-Tac-Toe.Topics-When_expression-Find_the_output.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Find the output/Simple_Tic-Tac-Toe.Topics-When_expression-Find_the_output.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Find the output/Simple_Tic-Tac-Toe.Topics-When_expression-Find_the_output.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Floor-space of the room/Simple_Tic-Tac-Toe.Topics-When_expression-Floor-space_of_the_room.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Floor-space of the room/Simple_Tic-Tac-Toe.Topics-When_expression-Floor-space_of_the_room.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Floor-space of the room/Simple_Tic-Tac-Toe.Topics-When_expression-Floor-space_of_the_room.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/From string to a number/Simple_Tic-Tac-Toe.Topics-When_expression-From_string_to_a_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/From string to a number/Simple_Tic-Tac-Toe.Topics-When_expression-From_string_to_a_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/From string to a number/Simple_Tic-Tac-Toe.Topics-When_expression-From_string_to_a_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Harry Potter/Simple_Tic-Tac-Toe.Topics-When_expression-Harry_Potter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Harry Potter/Simple_Tic-Tac-Toe.Topics-When_expression-Harry_Potter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Harry Potter/Simple_Tic-Tac-Toe.Topics-When_expression-Harry_Potter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Just checking/Simple_Tic-Tac-Toe.Topics-When_expression-Just_checking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Just checking/Simple_Tic-Tac-Toe.Topics-When_expression-Just_checking.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Just checking/Simple_Tic-Tac-Toe.Topics-When_expression-Just_checking.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Statements/Simple_Tic-Tac-Toe.Topics-When_expression-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Statements/Simple_Tic-Tac-Toe.Topics-When_expression-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Statements/Simple_Tic-Tac-Toe.Topics-When_expression-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/The army of units/Simple_Tic-Tac-Toe.Topics-When_expression-The_army_of_units.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/The army of units/Simple_Tic-Tac-Toe.Topics-When_expression-The_army_of_units.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/The army of units/Simple_Tic-Tac-Toe.Topics-When_expression-The_army_of_units.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/The number of digits/Simple_Tic-Tac-Toe.Topics-When_expression-The_number_of_digits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/The number of digits/Simple_Tic-Tac-Toe.Topics-When_expression-The_number_of_digits.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/The number of digits/Simple_Tic-Tac-Toe.Topics-When_expression-The_number_of_digits.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Theory/Simple_Tic-Tac-Toe.Topics-When_expression-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Theory/Simple_Tic-Tac-Toe.Topics-When_expression-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/When expression/Theory/Simple_Tic-Tac-Toe.Topics-When_expression-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Choose the correct ones/Simple_Tic-Tac-Toe.Topics-While_loops-Choose_the_correct_ones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Choose the correct ones/Simple_Tic-Tac-Toe.Topics-While_loops-Choose_the_correct_ones.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Choose the correct ones/Simple_Tic-Tac-Toe.Topics-While_loops-Choose_the_correct_ones.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Collatz conjecture/Simple_Tic-Tac-Toe.Topics-While_loops-Collatz_conjecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Collatz conjecture/Simple_Tic-Tac-Toe.Topics-While_loops-Collatz_conjecture.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Collatz conjecture/Simple_Tic-Tac-Toe.Topics-While_loops-Collatz_conjecture.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Squares of natural numbers/Simple_Tic-Tac-Toe.Topics-While_loops-Squares_of_natural_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Squares of natural numbers/Simple_Tic-Tac-Toe.Topics-While_loops-Squares_of_natural_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Squares of natural numbers/Simple_Tic-Tac-Toe.Topics-While_loops-Squares_of_natural_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/The largest element/Simple_Tic-Tac-Toe.Topics-While_loops-The_largest_element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/The largest element/Simple_Tic-Tac-Toe.Topics-While_loops-The_largest_element.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/The largest element/Simple_Tic-Tac-Toe.Topics-While_loops-The_largest_element.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/The length of the sequence/Simple_Tic-Tac-Toe.Topics-While_loops-The_length_of_the_sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/The length of the sequence/Simple_Tic-Tac-Toe.Topics-While_loops-The_length_of_the_sequence.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/The length of the sequence/Simple_Tic-Tac-Toe.Topics-While_loops-The_length_of_the_sequence.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/The sum of elements/Simple_Tic-Tac-Toe.Topics-While_loops-The_sum_of_elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/The sum of elements/Simple_Tic-Tac-Toe.Topics-While_loops-The_sum_of_elements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/The sum of elements/Simple_Tic-Tac-Toe.Topics-While_loops-The_sum_of_elements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Theory/Simple_Tic-Tac-Toe.Topics-While_loops-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Theory/Simple_Tic-Tac-Toe.Topics-While_loops-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/Theory/Simple_Tic-Tac-Toe.Topics-While_loops-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/What does the code print (1)/Simple_Tic-Tac-Toe.Topics-While_loops-What_does_the_code_print__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/What does the code print (1)/Simple_Tic-Tac-Toe.Topics-While_loops-What_does_the_code_print__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/What does the code print (1)/Simple_Tic-Tac-Toe.Topics-While_loops-What_does_the_code_print__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/What does the code print/Simple_Tic-Tac-Toe.Topics-While_loops-What_does_the_code_print.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/What does the code print/Simple_Tic-Tac-Toe.Topics-While_loops-What_does_the_code_print.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/Topics/While loops/What does the code print/Simple_Tic-Tac-Toe.Topics-While_loops-What_does_the_code_print.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/util/Simple_Tic-Tac-Toe.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/util/Simple_Tic-Tac-Toe.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Tic-Tac-Toe/.idea/modules/util/Simple_Tic-Tac-Toe.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/Zookeeper.Zookeeper-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/Zookeeper.Zookeeper-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/Zookeeper.Zookeeper-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/classes/kotlin/Zookeeper.Zookeeper-task-build-classes-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/classes/kotlin/Zookeeper.Zookeeper-task-build-classes-kotlin.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/classes/kotlin/Zookeeper.Zookeeper-task-build-classes-kotlin.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/reports/tests/Zookeeper.Zookeeper-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/reports/tests/Zookeeper.Zookeeper-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/reports/tests/Zookeeper.Zookeeper-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/test-results/Zookeeper.Zookeeper-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/test-results/Zookeeper.Zookeeper-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/test-results/Zookeeper.Zookeeper-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/tmp/Zookeeper.Zookeeper-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/tmp/Zookeeper.Zookeeper-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/Zookeeper/task/build/tmp/Zookeeper.Zookeeper-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/util/Zookeeper.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/util/Zookeeper.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zookeeper/.idea/modules/util/Zookeeper.util.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coffee Machine/Coffee Machine/task/src/machine/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Coffee Machine/Coffee Machine/task/src/machine/Main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="24lkMyKzIQMnNkGgWAzaAh1NCZf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last.edited.regexp" value="a a a a gkjk a apoij a a a a" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration default="true" type="Codeforces" factoryName="Codeforces">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Find_the_error.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="connectfour.MainKt" />
+      <module name="Connect_Four.Connect_Four-task.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.MainKt (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a205f9ba-66cd-4e33-8fbe-9339d373a50a" name="Changes" comment="" />
+      <created>1644212516711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644212516711</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Final">
+      <created>1644492772873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644492772873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task/build/test-results" />
+            <option value="$PROJECT_DIR$/ASCII Text Signature/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Function references/All correct function references" />
+            <option value="$PROJECT_DIR$/Topics/Function references/Ascending and descending sorting" />
+            <option value="$PROJECT_DIR$/Topics/Function references/Calculator" />
+            <option value="$PROJECT_DIR$/Topics/Function references/Creating employees" />
+            <option value="$PROJECT_DIR$/Topics/Function references/Manipulating with numbers" />
+            <option value="$PROJECT_DIR$/Topics/Function references/Replace the lambda expression with a function reference" />
+            <option value="$PROJECT_DIR$/Topics/Function references/Syntax of function references" />
+            <option value="$PROJECT_DIR$/Topics/Function references/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Continuation-Passing Style" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/First predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/First-class citizen" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Function generator" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Kotlin function type" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/ Not  predicate" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Range multiplication" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Syntactic sugar" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
