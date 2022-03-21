@@ -1,0 +1,16 @@
+<h2>Two lazy variables</h2>
+<html>
+ <head></head>
+ <body>
+  <pre><code class="language-kotlin">val a: String by lazy {
+    print("a")
+    "c"
+}
+val b: String by lazy {
+    print("b")
+    a
+}
+print(b)</code></pre> 
+  <p>What will be displayed in the console?</p>
+ </body>
+</html>

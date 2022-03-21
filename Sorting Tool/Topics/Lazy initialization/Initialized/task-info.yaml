@@ -1,0 +1,17 @@
+type: code
+custom_name: Initialized?
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class B {
+        lateinit var b: String
+
+        fun checkB() : Boolean {
+            // ... //
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14667#comment
+status: Solved
+record: -1

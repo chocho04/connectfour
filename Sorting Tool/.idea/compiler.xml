@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Sorting_Tool.Sorting_Tool-task-build-classes-kotlin.main" target="11" />
+      <module name="Sorting_Tool.Sorting_Tool-task-build-reports-tests.main" target="11" />
+      <module name="Sorting_Tool.Sorting_Tool-task-build-test-results.main" target="11" />
+      <module name="Sorting_Tool.Sorting_Tool-task-build-tmp.main" target="11" />
+      <module name="Sorting_Tool.Sorting_Tool-task.main" target="11" />
+      <module name="Sorting_Tool.Topics-Arrays-Initializing_an_array.main" target="11" />
+      <module name="Sorting_Tool.Topics-Arrays-Initializing_an_array_of_integers.main" target="11" />
+      <module name="Sorting_Tool.Topics-Arrays-Printing_the_last_element.main" target="11" />
+      <module name="Sorting_Tool.Topics-Arrays-Swap_elements.main" target="11" />
+      <module name="Sorting_Tool.Topics-Arrays-The_first_element_of_an_array.main" target="11" />
+      <module name="Sorting_Tool.Topics-Arrays-The_last_element_of_an_array.main" target="11" />
+      <module name="Sorting_Tool.Topics-Arrays-Theory.main" target="11" />
+      <module name="Sorting_Tool.Topics-Lazy_initialization-Cat.main" target="11" />
+      <module name="Sorting_Tool.Topics-Lazy_initialization-Initialized.main" target="11" />
+      <module name="Sorting_Tool.Topics-Lazy_initialization-Theory.main" target="11" />
+      <module name="Sorting_Tool.Topics-Map-Creation_of_Map_Entry.main" target="11" />
+      <module name="Sorting_Tool.Topics-Map-Is_there_a_key.main" target="11" />
+      <module name="Sorting_Tool.Topics-Map-Products_in_store.main" target="11" />
+      <module name="Sorting_Tool.Topics-Map-Sum_of_values.main" target="11" />
+      <module name="Sorting_Tool.Topics-Map-The_truth_is.main" target="11" />
+      <module name="Sorting_Tool.Topics-Map-Theory.main" target="11" />
+      <module name="Sorting_Tool.Topics-Mutable_Map-About_Mutable_Map.main" target="11" />
+      <module name="Sorting_Tool.Topics-Mutable_Map-Application.main" target="11" />
+      <module name="Sorting_Tool.Topics-Mutable_Map-Application__1_.main" target="11" />
+      <module name="Sorting_Tool.Topics-Mutable_Map-Comprehension.main" target="11" />
+      <module name="Sorting_Tool.Topics-Mutable_Map-Comprehension__1_.main" target="11" />
+      <module name="Sorting_Tool.Topics-Mutable_Map-Comprehension__2_.main" target="11" />
+      <module name="Sorting_Tool.Topics-Mutable_Map-Help_the_robot.main" target="11" />
+      <module name="Sorting_Tool.Topics-Mutable_Map-Removing.main" target="11" />
+      <module name="Sorting_Tool.Topics-Mutable_Map-Theory.main" target="11" />
+      <module name="Sorting_Tool.Topics-String_arrays-Adding_values.main" target="11" />
+      <module name="Sorting_Tool.Topics-String_arrays-Empty.main" target="11" />
+      <module name="Sorting_Tool.Topics-String_arrays-Help_the_Lord_Commander.main" target="11" />
+      <module name="Sorting_Tool.Topics-String_arrays-Initialization.main" target="11" />
+      <module name="Sorting_Tool.Topics-String_arrays-Theory.main" target="11" />
+      <module name="Sorting_Tool.Topics-Writing_files-Closed_case.main" target="11" />
+      <module name="Sorting_Tool.Topics-Writing_files-Duplication.main" target="11" />
+      <module name="Sorting_Tool.Topics-Writing_files-Theory.main" target="11" />
+      <module name="Sorting_Tool.Topics-Writing_files-writeText__.main" target="11" />
+      <module name="Sorting_Tool.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

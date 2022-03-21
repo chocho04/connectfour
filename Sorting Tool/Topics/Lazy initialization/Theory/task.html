@@ -1,0 +1,91 @@
+<h2>Lazy initialization</h2>
+<html>
+ <head></head>
+ <body>
+  <p>You can declare a variable by putting an equal sign followed by a value after its name:</p> 
+  <pre><code class="language-kotlin">var a = "I love Hyperskill!"</code></pre> 
+  <p>Creating a <code class="language-kotlin">String</code> object like this isn't a very resource- or time-consuming operation for the compiler. But creating instances of more complex classes can be much more expensive. In this topic, you will learn how to tackle this issue by delaying the creation of objects until they are needed using <strong>lazy initialization</strong>.</p> 
+  <h5>How it works</h5> 
+  <p>Lazy initialization lets us create an object at the exact point when the first reference to it occurs.</p> 
+  <p>This means that we don't need to waste time by immediately using our program's resources to allocate memory to objects that aren't required from the outset.</p> 
+  <p>If we allow objects to be initialized when they're needed, we can save a lot of time by redistributing the allocation of resources over the life cycle of our program.</p> 
+  <h5>Implementation</h5> 
+  <p>This goal can be achieved in different ways in different languages and frameworks.</p> 
+  <p>For example, the <span style="color: #66cc66;"><a target="_blank" href="https://spring.io/projects/spring-framework" rel="noopener noreferrer nofollow">Spring backend framework</a> </span> has the special property <code class="language-kotlin">spring.main.lazy-initialization=true</code>. This can reduce an application's startup time by creating fewer components at the beginning. However, in the context of Spring, this feature has <a target="_blank" href="https://www.baeldung.com/spring-boot-lazy-initialization#effects" rel="noopener noreferrer nofollow"><span style="color: #64b0f4;">some disadvantages</span></a> that are beyond the scope of our topic. </p> 
+  <p>Let's see how to use lazy initialization without frameworks.</p> 
+  <p>Kotlin has a special <code class="language-kotlin">lazy()</code> function that accepts a<span style="color: #64b0f4;"> </span><a target="_blank" href="https://hyperskill.org/learn/step/6154" rel="noopener noreferrer nofollow"><span style="color: #64b0f4;">lambda</span></a>. The first call executes this lambda and remembers the result. Subsequent calls simply return this value.</p> 
+  <p>You can see a simple example below:</p> 
+  <pre><code class="language-kotlin">fun main() {
+    val a: String by lazy {
+        print("Variable a is initialized. ")
+        "I love Hyperskill!"
+    }
+
+    println("Initializing a! ") // Initializing a!
+    println(a) // Variable a is initialized. I love Hyperskill!
+    println(a) // I love Hyperskill!
+}</code></pre> 
+  <p>So, why did we get this output? Before the value of <code class="language-kotlin">a</code> became <code class="language-kotlin">"I love Hyperskill!"</code>, the lambda body was called with <code class="language-kotlin">print()</code>. This all happened the first time we called <code class="language-kotlin">println(a)</code> — no sooner, no later. When we printed <code class="language-kotlin">a</code> again, no calculation occurred, so only <code class="language-kotlin">a</code>'s value was displayed.</p> 
+  <p></p>
+  <div class="alert alert-primary">
+   When using lazy initialization in Kotlin, you must declare variables with the 
+   <code class="language-kotlin">val</code> keyword because the value can only be initialized once.
+  </div>
+  <p></p> 
+  <h5>Synchronization problems</h5> 
+  <p>If your programs take advantage of multithreading, you need to know about the <code class="language-kotlin">lazy()</code> function's mode parameter. </p> 
+  <ul> 
+   <li><code class="language-kotlin">LazyThreadSafetyMode.SYNCHRONIZED</code> means that the value is only computed in one thread, and all threads will get the same value. It's the default option, so you can omit it if you wish: <pre><code class="language-kotlin">val a: String by lazy(LazyThreadSafetyMode.SYNCHRONIZED) {</code></pre> </li> 
+  </ul> 
+  <ul> 
+   <li><code class="language-kotlin">LazyThreadSafetyMode.PUBLICATION</code> specifies that the lambda can be called several times with an uninitialized lazy object value, but the value that is returned first will be used: <pre><code class="language-kotlin">val a: String by lazy(LazyThreadSafetyMode.PUBLICATION) {</code></pre> </li> 
+  </ul> 
+  <ul> 
+   <li><code class="language-kotlin">LazyThreadSafetyMode.NONE</code> means there's no synchronization at all, so if we call the variable from different threads, its value can't be uniquely defined. Using this option isn't recommended if your program allows a lazy object to be called for the first time from more than one thread: <pre><code class="language-kotlin">val a: String by lazy(LazyThreadSafetyMode.None) {</code></pre> </li> 
+  </ul> 
+  <p>You may be wondering why the keyword <code class="language-kotlin">by</code> is used before <code class="language-kotlin">lazy</code>? Well, it's to do with <strong>delegates</strong>. This is how we delegate the implementation of the corresponding property to a lambda. A detailed explanation about this is provided in the delegates topic.</p> 
+  <h5>lateinit</h5> 
+  <p>Another delayed initialization feature in Kotlin that's worth mentioning is <code class="language-kotlin">lateinit</code>. This is a keyword rather than a function like <code class="language-kotlin">lazy()</code>.</p> 
+  <p>Normally, if a class field's value isn't null, we should either initialize the property immediately or do it in the constructor. But there are often situations where, at the time we create an instance of a class, we can't initialize the property, and we don't want to make it nullable.</p> 
+  <p>We can't use the following approach because the default value of the field must be initialized:</p> 
+  <pre><code class="language-kotlin">class A {
+    var a: String</code></pre> 
+  <p>We could make <code class="language-kotlin">a</code> nullable, but we don't want it to be!</p> 
+  <pre><code class="language-kotlin">class A {
+    var a: String? = null</code></pre> 
+  <p>Fortunately, <code class="language-kotlin">lateinit</code> can be used to solve this problem:</p> 
+  <pre><code class="language-kotlin">class A {
+    lateinit var a: String
+
+    fun initA(a: String) {
+        this.a = a
+    }
+}</code></pre> 
+  <p>This method allows us to set the value of <code class="language-kotlin">a</code> in the <code class="language-kotlin">initA()</code> function at a convenient point after the object has been created.</p> 
+  <p>Note that <code class="language-kotlin">lateinit</code> variables must be declared with <code class="language-kotlin">var</code>, unlike those declared with <code class="language-kotlin">lazy()</code>.</p> 
+  <p>We can also check whether the property has already been initialized. (Under the hood, this is achieved through <a target="_blank" href="https://hyperskill.org/learn/step/3609" rel="noopener noreferrer nofollow"><span style="color: #64b0f4;">reflection</span></a>, but that's not something you need to understand right now.) To see how this works, let's add a function to our class. As shown below, <code class="language-kotlin">isInitialized</code> can be called on the current object's field via <code class="language-kotlin">this::a</code>, returning either true or false:</p> 
+  <pre><code class="language-kotlin">class A {
+    lateinit var a: String
+
+    fun initA(a: String) {
+        this.a = a
+    }
+
+    fun doSmth() {
+        if (::a.isInitialized)
+            println("a is Initialized")
+        else
+            println("a isn't Initialized")
+    }
+}</code></pre> 
+  <p></p>
+  <div class="alert alert-warning">
+    If you try to access a property before the binding has been initialized, an error will be thrown:
+   <p></p> 
+   <p>Caused by: kotlin.UninitializedPropertyAccessException: lateinit property binding has not been initialized</p>
+  </div> 
+  <p></p> 
+  <h5>Conclusion</h5> 
+  <p>You're now familiar with lazy initialization. You understand why it's needed and how it can be applied. Although their usage is quite similar, you're aware of the differences between <code class="language-kotlin">lazy()</code> and <code class="language-kotlin">lateinit</code>. You also know about the <code class="language-kotlin">lazy()</code> thread safety modes.</p>
+ </body>
+</html>

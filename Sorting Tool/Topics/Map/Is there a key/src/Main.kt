@@ -1,0 +1,1 @@
+fun containsKeyAndValue(map: Map<String, String>, value: String) = value in map.keys && value in map.values

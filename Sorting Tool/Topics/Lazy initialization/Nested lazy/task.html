@@ -1,0 +1,20 @@
+<h2>Nested lazy</h2>
+<html>
+ <head></head>
+ <body>
+  <pre><code class="language-kotlin">val a: String by lazy {
+    val b: String by lazy {
+        val c: String by lazy {
+            print("d")
+            "c"
+        }
+        print("b")
+        c
+    }
+    print("a")
+    b
+}
+print(a)</code></pre> 
+  <p>What will be displayed in the console?</p>
+ </body>
+</html>
